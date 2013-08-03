@@ -21,7 +21,7 @@ namespace CruiseControl
             _currentBoard = new BoardStatus();
         }
 
-        // Do not alter/remove this method signature
+        // Do not alter/remove this method signature...
         public List<Command> GiveCommands()
         {
            
